@@ -8,6 +8,7 @@ running as it is a key part of the submission.
 
 
 
+
 Shared shopping lists application:
 
 A user can run the project using docker compose up or inserting their own database credentials to the database.js. After that the application can be started using the command "deno run --unstable --allow-all --watch app.js" on the root folder of the application.
